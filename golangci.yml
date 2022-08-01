@@ -215,7 +215,7 @@ linters:
     - unconvert # Remove unnecessary type conversions
     - unparam # Reports unused function parameters
     - wastedassign # wastedassign finds wasted assignment statements.
-    - whitespace # Tool for detection of leading and trailing whitespace
+    #- whitespace # Tool for detection of leading and trailing whitespace
     ## you may want to enable
     #- decorder # check declaration order and count of types, constants, variables and functions
     #- exhaustruct # Checks if all structure fields are initialized
